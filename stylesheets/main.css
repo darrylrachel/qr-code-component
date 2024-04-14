@@ -67,7 +67,7 @@ body {
 .heading {
   font-size: 21px;
   font-weight: var(--fw-700);
-  color: var(--grayish-blue);
+  color: var(--dark-blue);
   text-align: center;
 }
 
